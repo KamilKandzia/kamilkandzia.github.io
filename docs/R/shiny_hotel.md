@@ -10,6 +10,8 @@ This project focused on presenting the potential of creating a hotel reservation
 
 R language is in general associated with data analysis and visualization of tables or charts. The packages allow the deployment of a functional website. Also, they are used to create a dashboard for the administration panel (e.g. by the shinydashboard). Considering some disadvantages of the free shinyapps.io version, it was chosen to focus on the functionality of the reservation system, database queries, and e-mail to the user with reservation confirmation.
 
+[Live demo](https://kamil-kandzia.shinyapps.io/portfolio/)
+
 ### Case study
 * SlickR library was used to create a hotel gallery.
 * ShinyWidgets, shinythemes, and shinycssloaders were used to enhance user experience. 

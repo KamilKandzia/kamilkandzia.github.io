@@ -10,6 +10,8 @@ Crime is a difficult and demanding aspect. The analysis of data related to this 
 
 The Chicago Police Department has been supplying information on the incidents since 2001. The database holds elements such as crime coordinates, type of crime, and the number of arrests. Based on this dataset, an intention was made to present the data visually.
 
+[Live demo](https://kamil-kandzia.shinyapps.io/portfolio/)
+
 ### Case study
 On the website, I posted some steps that I have to do during one of the laboratories on my master's studies. I decided to make some dynamic parameters and plot them on the map. Visualization of clustering based on data, which were resulted from the k-means algorithm, was made
 * Some statistics have been made to investigate data
@@ -19,5 +21,5 @@ On the website, I posted some steps that I have to do during one of the laborato
 
 ![Demo]({{site.url}}/assets/images/chicago_crimes_files/crimes.gif)
 
-<embed src="{{site.url}}/assets/images/chicago_crimes_files/chicago_crimes.pdf" width="500" height="375" 
+<embed src="{{site.url}}/assets/images/chicago_crimes_files/chicago_crimes.pdf" width="auto" height="auto" 
  type="application/pdf">
