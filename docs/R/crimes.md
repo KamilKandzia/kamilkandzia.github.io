@@ -21,5 +21,5 @@ On the website, I posted some steps that I have to do during one of the laborato
 
 ![Demo]({{site.url}}/assets/images/chicago_crimes_files/crimes.gif)
 
-<embed src="{{site.url}}/assets/images/chicago_crimes_files/chicago_crimes.pdf" width="auto" height="auto" 
+<embed src="{{site.url}}/assets/images/chicago_crimes_files/chicago_crimes.pdf" width="100%" height="600px" 
  type="application/pdf">
