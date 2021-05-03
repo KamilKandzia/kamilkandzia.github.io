@@ -37,6 +37,7 @@ include:
   - _static
   
 color_scheme: dark
+search_enabled: true
 
 #baseurl: /docs
 
