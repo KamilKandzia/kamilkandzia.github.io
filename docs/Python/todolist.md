@@ -48,6 +48,8 @@ python ex2.py --type list --today
 
 [Link button](http://example.com/){: .btn }<i class="fa fa-car"></i>
 
+<button class="btn"><i class="fa fa-home"></i> Home</button>
+
 [Link button](http://example.com/){: .btn .btn-purple }
 [Link button](http://example.com/){: .btn .btn-blue }
 [Link button](http://example.com/){: .btn .btn-green }
