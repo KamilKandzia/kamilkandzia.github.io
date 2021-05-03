@@ -39,9 +39,6 @@ include:
 color_scheme: dark
 search_enabled: true
 
-gems:
-  - jekyll-font-awesome-sass
-
 #baseurl: /docs
 
 # Exclude from processing.
