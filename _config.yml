@@ -39,9 +39,9 @@ include:
 color_scheme: dark
 search_enabled: true
 
-aux_links:
-  "LinkedIn profile":
-    - "//linkedin.com/in/kamil-kandzia/"
+#aux_links:
+#  "LinkedIn profile":
+#    - "//linkedin.com/in/kamil-kandzia/"
 
 #baseurl: /docs
 
