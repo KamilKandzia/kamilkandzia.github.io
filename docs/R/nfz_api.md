@@ -11,7 +11,6 @@ During my master's thesis, which was covered by the diabetic's topic, I have to 
 The website allows for comprehensive data analysis. In particular, the emphasis was placed on sales for given branches of the NFZ. Additionally, a year-to-year analysis was introduced. As well as analysis of the division of age groups according to the attributes.
 
 [Live demo](https://kamil-kandzia.shinyapps.io/nfz_api/){: target="_blank" .btn .btn-purple }
-
 ![Demo]({{site.url}}/assets/images/nfz_files/nfz.gif)
 
 On the left sidebar, there are links to the relevant tabs. On the right side, there is a product search engine by active substance or product name. By default, the first item in the Suggestion field (this is the resulting product or active substance within the dictionary method).
