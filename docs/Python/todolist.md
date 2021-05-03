@@ -46,7 +46,7 @@ The first returned column is hash id, the second name of the task, third deadlin
 python ex2.py --type list --today
 ```
 
-[Link button](http://example.com/){: .btn }
+[Link button](http://example.com/){: .btn }<i class="fa fa-car"></i>
 
 [Link button](http://example.com/){: .btn .btn-purple }
 [Link button](http://example.com/){: .btn .btn-blue }
