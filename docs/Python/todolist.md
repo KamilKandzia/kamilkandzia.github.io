@@ -46,10 +46,6 @@ The first returned column is hash id, the second name of the task, third deadlin
 python ex2.py --type list --today
 ```
 
-<button class="btn"><i class="fa fa-home"></i> Home</button>
-
-<a href="https://google.com" class="button" target="_blank"><i class='fa fa-home'></i>Go to Google</a>
-
-[Link button](http://example.com/){: target="_blank" .btn .btn-purple }
-
 In case of trouble, there is also a --help option.
+
+[Get it from the GitHub](https://github.com/KamilKandzia/TO-DO-list-via-CLI){: target="_blank" .btn .btn-purple }

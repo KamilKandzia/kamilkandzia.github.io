@@ -10,7 +10,7 @@ During my master thesis, I created a website to get data from by the NFZ API. I 
 
 That was the idea which I had in my mind by creating another page on Shiny.
 
-[Live demo](https://kamil-kandzia.shinyapps.io/datasets/)
+[Live demo](https://kamil-kandzia.shinyapps.io/datasets/){: target="_blank" .btn .btn-purple }
 
 ## Case study
 I started by finding a new dataset that I can use to analyse, and in the next stage, visualize it. I choose the "Accidental Drug-Related Deaths" dataset. The dataset contains death associated with drug overdose in Connecticut from 2012 to 2018. Created by the Office of the Chief Medical Examiner, data includes the toxicity report, death certificate, and scene investigation.

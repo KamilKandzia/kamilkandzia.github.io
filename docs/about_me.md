@@ -52,3 +52,7 @@ Silesian University of Technology
 
 * Course: Automatic Control and Robotics 
 * Specialization: Information technologies 
+
+[LinkedIn](https://www.linkedin.com/in/kamil-kandzia/){: target="_blank" .btn .btn-purple }
+
+[GitHub](https://github.com/KamilKandzia){: target="_blank" .btn .btn-purple }
