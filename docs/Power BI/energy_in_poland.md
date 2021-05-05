@@ -1,17 +1,17 @@
 ---
 layout: page
-title: Energy and Heat
+title: Electricity and heat energy
 permalink: /energy_and_heat/
 parent: Power BI
 ---
 
-# Energy and Heat production in Poland
+# Electricity and heat energy production in Poland
 That's the first project that I published on my GitHub pages. For this project, I have chosen some data available online, so I found it on the open data webpage https://dane.gov.pl/. 
 
-[Heat production 2015-2018](https://dane.gov.pl/pl/dataset/607/resource/28374/table?page=1&per_page=20&q=&sort=){: target="_blank" .btn .btn-purple }
-[Energy production 2015-2018](https://dane.gov.pl/pl/dataset/607/resource/28373/table?page=1&per_page=20&q=&sort=){: target="_blank" .btn .btn-purple }
+[Heat energy production 2015-2018](https://dane.gov.pl/pl/dataset/607/resource/28374/table?page=1&per_page=20&q=&sort=){: target="_blank" .btn .btn-purple }
+[Electricity production 2015-2018](https://dane.gov.pl/pl/dataset/607/resource/28373/table?page=1&per_page=20&q=&sort=){: target="_blank" .btn .btn-purple }
 
-The data cover the heat and energy production in Poland by 2015-2018 divided by the voivodeship. In data investigation, I discovered that some values are missing, but it often occurs in projects. So, how to deal with it?
+The data cover the heat energy and electricity production in Poland by 2015-2018 divided by the voivodeship. In data investigation, I discovered that some values are missing, but it often occurs in projects. So, how to deal with it?
 
 ![Dataset preprocessing]({{site.url}}/assets/images/power_bi_files/power_bi_energy_processing.gif)
 
@@ -24,7 +24,7 @@ After preprocessing, I created some pages that could be used in analysis values 
 
 * How the energy production change year by year? To find out, I visualize in the line chart the production per year. 
 
-![Energy production year by year]({{site.url}}/assets/images/power_bi_files/production_energy_year_by_year.png)
+![Electricity production year by year]({{site.url}}/assets/images/power_bi_files/production_energy_year_by_year.png)
 
 * Found the voivodeships that have the highest industrialisation region in Poland. "Elektrownie i elektrociepłownie zawodowe" (eng. "Combined heat and power industry plants") present sorted the voivodeships with the highest production in the region. In the upper-silesia (pl. Śląskie), the are many resource-intensive factors in energy or heat (eg. steelworks, rolling mills, or defense industry).
 

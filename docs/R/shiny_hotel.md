@@ -23,6 +23,10 @@ R language is in general associated with data analysis and visualization of tabl
 
 ![Demo]({{site.url}}/assets/images/hotel_files/hotel.gif)
 
+Scan of the QR code by Santander App:
+
+![Demo]({{site.url}}/assets/images/hotel_files/scan_qr.gif)
+
 More details of the email sent by mailjet.com:
 
 ![Demo]({{site.url}}/assets/images/hotel_files/hotel_mail.png)
