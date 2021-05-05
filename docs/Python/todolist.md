@@ -48,4 +48,6 @@ python ex2.py --type list --today
 
 In case of trouble, there is also a --help option.
 
+![Demo]({{site.url}}/assets/images/todolist_files/todolist.gif)
+
 [Get it from the GitHub](https://github.com/KamilKandzia/TO-DO-list-via-CLI){: target="_blank" .btn .btn-purple }
