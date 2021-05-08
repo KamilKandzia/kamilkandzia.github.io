@@ -43,6 +43,8 @@ aux_links:
   "LinkedIn profile":
     - "//linkedin.com/in/kamil-kandzia/"
 
+google_analytics: UA-196534394-1
+
 #baseurl: /docs
 
 # Exclude from processing.
