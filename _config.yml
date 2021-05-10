@@ -32,6 +32,7 @@ github_username:  kamilkandzia
 remote_theme: pmarsceill/just-the-docs@v0.3.3
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
   
 include:
   - _static
