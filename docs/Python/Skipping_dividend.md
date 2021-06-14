@@ -654,9 +654,11 @@ cleaned_df = get_only_dividend_event(cleaned_df)
 
 Assuming that the average provision for buy/sell share is equal to 0.38%, the calculation has been made. The maximum of 'Highest' column price value (before the dividend) has been taken into account and the 'Lowest' price (after the dividend payment).
 
-$ F = highest_{max} - lowest_{min} - provision * (highest_{max} + lowest_{min}) - dividend $
+$$
+F = highest_{max} - lowest_{min} - provision * (highest_{max} + lowest_{min}) - dividend
+$$
 
-![Provisions](biura_maklerskie_oplaty_prowizje.jpg)
+![Provisions]({{site.url}}/assets/images/Skipping_dividend_files/biura_maklerskie_oplaty_prowizje.jpg)
 
 Source: https://pieniadze.rp.pl/wp-content/uploads/2020/02/biura_maklerskie_oplaty_prowizje.jpg
 
