@@ -1,4 +1,9 @@
-Kamil Kandzia
+---
+layout: page
+title: Predicting Profitable Customer Segments
+permalink: /customer_segments/
+parent: Python
+---
 
 # Predicting Profitable Customer Segments
 
