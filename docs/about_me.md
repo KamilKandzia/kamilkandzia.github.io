@@ -1,7 +1,9 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /
+redirect_from:
+  - /
 ---
 
 # Hello!
