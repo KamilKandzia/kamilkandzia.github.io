@@ -46,6 +46,8 @@ aux_links:
 
 google_analytics: UA-196534394-1
 
+markdown: kramdown
+
 #baseurl: /docs
 
 # Exclude from processing.
