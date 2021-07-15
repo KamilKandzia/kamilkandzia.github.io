@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Predicting Profitable Customer Segments
+title: Predicting profitable customer segments
 permalink: /customer_segments/
 parent: Python
 ---
@@ -6219,6 +6219,7 @@ In the response field, there will be results, e.g.
 }
 ```
 
+![png]({{site.url}}/assets/images/Creating_api_for_requestes_files/predict_model.gif)    
 
 
 
