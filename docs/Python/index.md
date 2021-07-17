@@ -5,7 +5,7 @@ nav_order: 2
 has_children: true
 ---
 
-All projects in this language were done outside of my studies. I had the chance to use an SQLite database, parse commands using the console and predict the seasonality of sales. Additionally, I created my model for customer segmentation that compares two groups and indicates which one should be targeted. In this case, the requests are sent using JSON from Postman. 
+All projects in this language were done outside of my studies. I had the chance to use an SQLite database, parse commands using the console and predict the seasonality of sales. Additionally, I created my model for customer segmentation that compares two groups and indicates which one should be targeted. In this case, the requests are sent in JSON format by the Postman. 
 
 ### Some of my projects:
 
