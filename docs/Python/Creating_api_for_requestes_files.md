@@ -4,7 +4,7 @@ title: API for prediction the target group
 permalink: /model_api/
 parent: Python
 ---
-# API for prediction the target group (based of the third approach)
+# API for prediction the target group
 This is part of the project that belongs to Predicting Profitable Customer Segments. By using requests, it is possible to check which of the two groups you should target for marketing purposes (or neither of them).
 
 More information about the project:

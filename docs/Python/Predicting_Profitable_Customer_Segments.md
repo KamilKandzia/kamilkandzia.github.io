@@ -5,7 +5,13 @@ permalink: /customer_segments/
 parent: Python
 ---
 
-# Predicting Profitable Customer Segments
+# Navigation Structure
+{: .no_toc }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+# Predicting profitable customer segments
 
 **Context**
 
