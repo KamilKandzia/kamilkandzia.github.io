@@ -5,6 +5,15 @@ permalink: /nfz_api/
 parent: R
 ---
 
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
 # NFZ API
 During my master's thesis, which was covered by the diabetic's topic, I have to get some data connected to that. I discovered that there were available public data of the reimbursement by the NFZ (that's the polish analog of the NHS). 
 

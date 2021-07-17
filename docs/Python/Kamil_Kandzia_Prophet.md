@@ -5,6 +5,15 @@ permalink: /prophet/
 parent: Python
 ---
 
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
 # Build a prediction model by the Prophet
 
 This notebook aimed to build a prediction model to analyze the future income of the stores based on 3 files. 

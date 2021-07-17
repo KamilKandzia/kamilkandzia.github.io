@@ -4,6 +4,16 @@ title: API for prediction the target group
 permalink: /model_api/
 parent: Python
 ---
+
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
 # API for prediction the target group
 This is part of the project that belongs to Predicting Profitable Customer Segments. By using requests, it is possible to check which of the two groups you should target for marketing purposes (or neither of them).
 

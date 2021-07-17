@@ -5,6 +5,15 @@ permalink: /chicago_crimes/
 parent: R
 ---
 
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
 # Chicago crimes
 Crime is a difficult and demanding aspect. The analysis of data related to this topic helps to reduce the risk of crime and provides an opportunity to react more quickly to incidents. The analysis of the Chicago Crimes dataset was the aim of one of the subjects of the master's studies. This subpage presents a section relating to the possibility of relocating police stations for rapid response purposes.
 

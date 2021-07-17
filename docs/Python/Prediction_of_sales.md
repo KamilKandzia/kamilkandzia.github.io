@@ -5,6 +5,15 @@ permalink: /forecasting/
 parent: Python
 ---
 
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
 # Forecasting of sales by the Prophet
 
 The aim was to create a model prediction of the sales for the next three weeks. Currently, the sales forecast is set 3 weeks ahead based on last week's sales. The Weighted Absolute Percent Error (WAPE) is used for comparison purposes.

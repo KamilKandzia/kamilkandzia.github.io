@@ -10,7 +10,7 @@ I'm Kamil, currently working in one of the largest Polish banks.
 
 During my bachelor studies, I realized that I want to do something other than work in the factory as an automation control engineer. For my bachelor thesis ("Comparison of algorithms and structures for processing biomedical data"), I used Matlab to create the application with GUI. It had some statistician function, and that gave me some fun of working with big data files. At my university, a new "Data Science" course has been created, which was in the English language, so I chose it for the master's studies. During this course, I learn a lot about statistics, processing data and images, classifiers, big data environment, and data visualization.
 
-All projects in this language were done outside of my studies. I had the chance to use an SQLite database, parse commands using the console and predict the seasonality of sales. Additionally, I created my model for customer segmentation that compares two groups and indicates which one should be targeted. In this case, the requests are sent in JSON format by the Postman.
+All projects in python were done outside of my studies. I had the chance to use an SQLite database, parse commands using the console and predict the seasonality of sales. Additionally, I created my model for customer segmentation that compares two groups and indicates which one should be targeted. In this case, the requests are sent in JSON format by the Postman.
 
 ## Cerificates
 * Professional Scrum Master (**PSM-1**) (https://www.scrum.org/user/833957)

@@ -5,6 +5,15 @@ permalink: /todolist/
 parent: Python
 ---
 
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
 # To do list via CLI
 
 File contains a script that implements a basic task list **with text interface**. 

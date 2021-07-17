@@ -5,6 +5,15 @@ permalink: /hotel/
 parent: R
 ---
 
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
 # Hotel reservation project
 This project focused on presenting the potential of creating a hotel reservation system design by R packages.
 

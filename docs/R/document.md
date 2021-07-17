@@ -5,6 +5,15 @@ permalink: /document/
 parent: R
 ---
 
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
 # Advanced clustering on single-cell RNA-sequencing
 
 The data used for this report are the results of the single-cell RNA sequencing.  That is the state-of-the-art method of measuring the expression levels in a particular cell. This kind of experiment generates huge data:  expression levels of thousands of genes are measured for hundreds or thousands of cells. Each cell is also described with the annotation data. In the case of these classes, every cell is annotated with the tissue or organ of origin. All cells were collected from the same mouse. This study aims to distinguish between cells coming from different tissues based on the measured expression levels. 

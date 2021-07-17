@@ -6,6 +6,15 @@ parent: Python
 usemathjax: true
 ---
 
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
 # Stock price: jumping out and in of dividend stocks around ex dividend dates
 
 The payment of dividends by a company is an attractive morsel for a shareholder. Such a company is better perceived because of its attractiveness and its willingness to share its profits with investors. But is it always profitable to own shares when dividends are paid? In this note, I will try to answer this question. For the analysis, I have chosen companies that regularly pay dividends on the Polish stock exchange. 

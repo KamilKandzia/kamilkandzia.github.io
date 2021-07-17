@@ -5,6 +5,15 @@ permalink: /datasets/
 parent: R
 ---
 
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
 # Dataset analysis
 During my master thesis, I created a website to get data from by the NFZ API. I enjoyed the final site visual effects implementation on R by the Shiny apps. Nevertheless, why not deploy a new website with more fancy charts?
 

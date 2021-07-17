@@ -5,6 +5,15 @@ permalink: /energy_and_heat/
 parent: Power BI
 ---
 
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
 # Electricity and heat energy production in Poland
 That's the first project that I published on my GitHub pages. For this project, I have chosen some data available online, so I found it on the open data webpage https://dane.gov.pl/. 
 
