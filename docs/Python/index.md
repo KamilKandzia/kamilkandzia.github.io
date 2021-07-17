@@ -11,5 +11,5 @@ All projects in this language were done outside of my studies. I had the chance 
 
 |Project|Description|
 |:---|:---|
-|[Prediction using the Prophet](https://kamilkandzia.github.io/prophet/)|Build a prediction model by the <span class="label label-green">prophet</span> to indicate if the credit could be granted to some stores. For the stores, there is information about the revenue of the alcohol sales. The clustering has been implemented to find stores with similar attributes.|
-|[To do list via CLI](https://kamilkandzia.github.io/todolist/)|To-do list created in Python. Data is stored in the database by using SQLite. The argparse package is used to parse the arguments from the CLI.|
+|[Prediction model of sales in alcohol stores by using the Prophet](https://kamilkandzia.github.io/prophet/)|Build a prediction model by the <span class="label label-green">prophet</span> to indicate if the credit could be granted to some stores. For the stores, there is information about the revenue of the alcohol sales. The clustering has been implemented to find stores with similar attributes.|
+|[To do list via CLI](https://kamilkandzia.github.io/todolist/)|To-do list created in Python. Data is stored in the database by using <span class="label label-green">SQLite</span>. The <span class="label label-green">argparse</span> package is used to parse the arguments from the CLI.|
