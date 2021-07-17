@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Prophet
+title: Prediction model of sales in alcohol stores by using the Prophet
 permalink: /prophet/
 parent: Python
 ---
@@ -13,6 +13,11 @@ This notebook aimed to build a prediction model to analyze the future income of 
 *   The second has information of distances in km between each pair of stores that are within 5 kilometers of each other
 *   The last file contains the number of high education institutions that are
 within a 5 km radius from each store in scope.
+
+**Summary in PDF**
+
+<embed src="{{site.url}}/assets/images/prophet_files/alco_stores_prophet.pdf" width="100%" height="600px" 
+ type="application/pdf">
 
 **Business case**
 
