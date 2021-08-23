@@ -23,13 +23,13 @@ All projects in python were done outside of my studies. I had the chance to use 
 
 Tribe Customer Interactions (2021.04 - present)
 
-* Migrating reports to **Power BI**.
-* Continue my works experience on **hadoop**.  
-* Got familiar with business aims in the Tribe to had better understanding and creating more valuable reports.
+* Creating more valuable reports (in **Power BI**) thanks to a better understanding of business aims and KPIs.
+* Develop a model to increase buying cash loans by clients by targeting more accurately in marketing actions.
+* Continue my works experience on **Hadoop**.  
 
 Data Lake Applications Team (2020.09 - 2021.03)
 
-* Usage **pyspark** in the existing projects and new developed (adoption part of the S recommendation of KNF). 
+* Usage **pyspark** in the existing projects and newly developed (adoption part of the S recommendation of KNF). 
 * Had the chance to work on clusters thus, I gained knowledge of **Hive** and **HDFS**. 
 * **Git** and **Jupyter** became a part of my workday.
 
