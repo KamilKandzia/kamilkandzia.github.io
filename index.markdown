@@ -19,9 +19,13 @@ All projects in python were done outside of my studies. I had the chance to use 
  <img src="{{site.url}}/assets/images/about_files/psmi.png" alt="psmi" width="200"/> <img src="{{site.url}}/assets/images/about_files/da_100.png" alt="da_100" width="200"/>
 
 ## Work experience
-### ING Bank Śląski S.A. (2020.09 - present)
 
-Tribe Customer Interactions (2021.04 - present)
+### Allegro (2021.10 - present)
+Junior Data Analyst
+
+### ING Bank Śląski S.A. (2020.09 - 2021.09)
+
+Tribe Customer Interactions (2021.04 - 2021.09)
 
 * Creating more valuable reports (in **Power BI**) thanks to a better understanding of business aims and KPIs.
 * Develop a model to increase buying cash loans by clients by targeting more accurately in marketing actions.
