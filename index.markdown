@@ -20,7 +20,10 @@ All projects in python were done outside of my studies. I had the chance to use 
 
 ## Work experience
 
-### Allegro (2021.10 - present)
+### Accenture (2022.01-present)
+Data Engineer/Big Data Developer
+
+### Allegro (2021.10 - 2021.12)
 Junior Data Analyst
 
 ### ING Bank Śląski S.A. (2020.09 - 2021.09)
