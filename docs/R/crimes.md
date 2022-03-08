@@ -22,11 +22,11 @@ The Chicago Police Department has been supplying information on the incidents si
 [Live demo](https://kamil-kandzia.shinyapps.io/portfolio/){: target="_blank" .btn .btn-purple }
 
 ### Case study
-On the website, I posted some steps that I have to do during one of the laboratories on my master's studies. I decided to make some dynamic parameters and plot them on the map. Visualization of clustering based on data, which were resulted from the k-means algorithm, was made
+On my website (you can find under the live demo button), I have posted some of the steps I followed during the project. I also decided to make some dynamic parameters and plot them on the map. Visualization of clustering based on data, which were resulted from the k-means algorithm, was made. Additionally,
 * Some statistics have been made to investigate data
 * Cleaning data was done
-* Plotting the main police stations and quick response by the k-means clustering
-* Number of a quick response police station is based on dynamic parameter
+* Plotted the main police stations and quick response by the k-means clustering
+* The number of a quick response police station is based on dynamic parameter
 
 ![Demo]({{site.url}}/assets/images/chicago_crimes_files/crimes.gif)
 

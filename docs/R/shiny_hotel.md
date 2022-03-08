@@ -17,7 +17,7 @@ parent: R
 # Hotel reservation project
 This project focused on presenting the potential of creating a hotel reservation system design by R packages.
 
-R language is in general associated with data analysis and visualization of tables or charts. The packages allow the deployment of a functional website. Also, they are used to create a dashboard for the administration panel (e.g. by the shinydashboard). Considering some disadvantages of the free shinyapps.io version, it was chosen to focus on the functionality of the reservation system, database queries, and e-mail to the user with reservation confirmation.
+The R language is mostly associated with data analysis (especially biomedical), visualization, and statistics. Many packages allow the deployment of a functional website. Also, they are used to create a dashboard for the administration panel (e.g. by the shinydashboard). By using the free shinyapps.io version, I have created the hotel management system. It focuses on the functionality of the reservation system, database queries, and e-mail to the user with reservation confirmation.
 
 [Live demo](https://kamil-kandzia.shinyapps.io/portfolio/){: target="_blank" .btn .btn-purple }
 [Get it from the GitHub](https://github.com/KamilKandzia/hotel_shiny){: target="_blank" .btn .btn-purple }
@@ -25,10 +25,10 @@ R language is in general associated with data analysis and visualization of tabl
 ### Case study
 * SlickR library was used to create a hotel gallery.
 * ShinyWidgets, shinythemes, and shinycssloaders were used to enhance user experience. 
-* RSQLite was used to communicate with the database, the e-mail system emayili, and magrittr to parse. The QR code is displaying using qrencoder and application rendering using raster, rsvg, and svglite.
-* Sending mail is done by jetmail
-* The site is located on the Shinyapps server where SSL communication is provided.
-* Only once the reservation can be deleted
+* RSQLite was used to communicate with the database, the e-mail system emayili, and magrittr to parse. The QR code is displayed using qrencoder and application rendering using raster, rsvg, and svglite.
+* Sending mail is done by jetmail.
+* The site is located on the Shinyapps server, where SSL communication is provided.
+* The reservation can be deleted only once.
 
 ![Demo]({{site.url}}/assets/images/hotel_files/hotel.gif)
 
