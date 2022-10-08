@@ -20,7 +20,10 @@ All projects in python were done outside of my studies. I had the chance to use 
 
 ## Work experience
 
-### Accenture (2022.01 - present)
+### Link4 (2022.04 - present)
+Data Engineer
+
+### Accenture (2022.01 - 2022.04)
 Data Engineer/Big Data Developer
 
 ### Allegro (2021.10 - 2021.12)
